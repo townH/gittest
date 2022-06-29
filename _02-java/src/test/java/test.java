@@ -6,5 +6,6 @@ public class test {
     public void test01(){
         System.out.println("fkdjjafkjdsajfdjsajfl");
         System.out.println("hello git");
+        System.out.println("hello git");
     }
 }
